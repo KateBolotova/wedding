@@ -304,7 +304,7 @@ const Form = () => {
         anchorOrigin={{ vertical: "top", horizontal: "center" }}
       >
         <Alert onClose={() => setOpenSnackbar(false)} severity="success" sx={{ width: "100%" }}>
-          Спасибо! Данные успешно отправлены 🎉
+          Спасибо за ответ! Данные успешно отправлены 🎉
         </Alert>
       </Snackbar>
     </Box>
