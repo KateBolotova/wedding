@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { Box, Typography, CircularProgress } from "@mui/material";
 import { motion } from "framer-motion";
-import flowers from "../images/flowers.svg";
+import flowers from "../images/flowers_crop.png";
 
 const MotionTypography = motion(Typography);
 
