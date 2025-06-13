@@ -76,7 +76,7 @@ const Date = () => {
               "& .MuiPickersCalendarHeader-root": {
                 display: "none",
               },
-              "& .css-1afbhty-MuiButtonBase-root-MuiPickersDay-root.Mui-selected": {
+              "& .MuiButtonBase-root.MuiPickersDay-root.Mui-selected.MuiPickersDay-dayWithMargin": {
                 backgroundColor: "#5B755C",
               },
               "& .css-1afbhty-MuiButtonBase-root-MuiPickersDay-root": {
