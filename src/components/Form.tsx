@@ -183,7 +183,7 @@ const Form = () => {
           <>
             <TextField
               fullWidth
-              label="С кем придете?"
+              label="С кем придете? (Имя Фамилия)"
               name="withWhom"
               value={formData.withWhom}
               onChange={handleChange}
@@ -270,7 +270,7 @@ const Form = () => {
               fullWidth
               multiline
               rows={3}
-              label="Любой комментарий"
+              label="Любой комментарий (Например, одна любимая песня)"
               name="comment"
               value={formData.comment}
               onChange={handleChange}
